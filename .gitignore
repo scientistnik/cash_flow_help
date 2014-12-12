@@ -1,0 +1,3 @@
+*.pro.*
+/Debug/
+/Release/
